@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="aebe43bc-c081-4c89-b8af-0b479f4516a4" name="blog" url="http://theterrybrown.com">
+        <fileTransfer host="theterrybrown.com" port="21" password="dfd9dfc3dfc7dfdadfc6dfcfdf9bdf98df99" username="brownterry3236">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
